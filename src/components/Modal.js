@@ -14,7 +14,9 @@ export default function Modal(props) {
                 <p><strong>{props.content.title}</strong></p>
                 <img className="logo" src={logo} alt="logo" />
                 <p>{props.content.message}</p>
-                <button onClick={handleClick}>{props.content.button}</button>
+                <button onClick={handleClick}>
+                    {props.content.button}
+                </button>
             </div>
         </div>
     )
