@@ -5,6 +5,6 @@ export const intro = {
 }
 export const outro = {
     title: <span className="emoji-big">😭</span>,
-    message: <span>Vaša registracija nije uspjela. Ova web stranica je opremljena naprednom tehnologijom za očitavanje razine endorfina, poznatijeg kao "hormon smijeha". Nažalost, kod Vas smo ustanovili nezadovoljavajuču razinu endorfina u krvi. Preporučujemo da posjetite našu <a href="https://www.facebook.com/Progressusadinfinitum/">Facebook stranicu</a>. Brz oporavak!</span>,
+    message: <span>Vaša registracija nije uspjela. Ova web stranica opremljena je naprednom tehnologijom za očitavanje razine endorfina, poznatijeg kao "hormon sreće". Nažalost, kod Vas smo ustanovili nezadovoljavajuču razinu endorfina u krvi. Preporučujemo da posjetite našu <a href="https://www.facebook.com/Progressusadinfinitum/">Facebook stranicu</a>. Brz oporavak!</span>,
     button: "Natrag"
 }
