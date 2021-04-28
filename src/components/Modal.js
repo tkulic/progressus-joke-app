@@ -1,6 +1,6 @@
 import React from 'react'
 
-import logo from "../img/logo.svg"
+import logo from "../img/logo.png"
 
 export default function Modal(props) {
     function handleClick(e) {

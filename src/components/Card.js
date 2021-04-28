@@ -1,5 +1,5 @@
 import React, { useContext } from 'react'
-import logo from "../img/logo.svg"
+import logo from "../img/logo.png"
 import qrCode from "../img/qr-code.svg"
 
 import { InputDataContext } from "../InputDataContext"
